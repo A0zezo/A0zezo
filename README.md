@@ -18,4 +18,5 @@ Hi there! I’m Ahmed Abd Elaziz, a passionate AI Engineer who loves turning ide
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=A0zezo&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+![snake gif](https://github.com/A0zezo/A0zezo/blob/output/github-snake-dark.svg)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
